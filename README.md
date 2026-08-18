@@ -1,27 +1,45 @@
-<p align="center">
-  <img src="./toji.gif" width="500">
-</p>
-
-<h1 align="center">AHANAF</h1>
+<!-- ================= TOJI ================= -->
 
 <p align="center">
-  <code>SOFTWARE DEVELOPER</code>
-</p>
-
-<p align="center">
-  ASP.NET • C# • SQL • FULL-STACK
+  <img src="./toji.gif" width="430">
 </p>
 
 <br>
 
-<p align="center">
-  <i>"The strongest are often the ones who walk alone."</i>
-</p>
+<!-- ================= NAME ================= -->
+
+<h1 align="center">
+  Ahanaf Mokammel Omi
+</h1>
 
 <p align="center">
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  <i>Software Developer</i>
 </p>
 
+<br>
+
+<!-- ================= QUOTE ================= -->
+
 <p align="center">
-  <b>BUILD.</b> &nbsp; <b>BREAK.</b> &nbsp; <b>REBUILD.</b>
+  <i>
+    "I'm not a Zenin anymore. I took my wife's name.
+    <br>
+    It's Fushiguro now. But sure, count me in on all the fun."
+  </i>
 </p>
+
+<br>
+
+<!-- ================= TECH STACK ================= -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,cs,dotnet,aspnet,cpp,python,java,js,html,css,sqlserver,git,visualstudio" />
+</p>
+
+<br>
+
+<!-- ================= MOTTO ================= -->
+
+<h2 align="center">
+  𝕍𝕖𝕟𝕚. 𝕍𝕚𝕕𝕚. 𝕍𝕚𝕔𝕚.
+</h2>
