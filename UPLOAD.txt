@@ -1,0 +1,4 @@
+Upload README.md and the entire assets/ folder to the root of your BigSmoke4 profile repository.
+Keep your existing toji.gif in the repository root if you want to retain it elsewhere; this README no longer requires it.
+The nine provided MP4s have been converted to compact looping GIF previews under assets/scene-1.gif through assets/scene-9.gif.
+GitHub README embeds GIFs, but does not reliably support inline MP4 playback. Stats depend on third-party services and GitHub API visibility.
