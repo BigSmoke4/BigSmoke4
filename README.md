@@ -1,23 +1,4 @@
-
-<!--
-  AHANAF MOKAMMEL OMI • HAUNTED GITHUB ARCHIVE
-  Profile repository: BigSmoke4/BigSmoke4
-  All nine scene GIFs are stored in the repository root.
--->
-
-<p align="center">
-  <img src="./scene-1.gif" width="100%" alt="Haunting opening scene" />
-</p>
-
-<h1 align="center">AHANAF MOKAMMEL OMI</h1>
-
-<p align="center">
-  <strong>FULL STACK DEVELOPER</strong><br>
-</p>
-
-<p align="center">
-  <em>𓅰 𓅬 𓅭 𓅮 𓅯</em>
-</p>
+<h1 align="center">𓅰 𓅬 𓅭 𓅮 𓅯</h1>
 
 <p align="center">
   <a href="https://github.com/BigSmoke4">
@@ -132,39 +113,5 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BigSmoke4&style=for-the-badge&color=6D4A91&label=PROFILE+VISITORS" alt="Profile visitors" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/BigSmoke4?style=for-the-badge&color=6D4A91&labelColor=0D0B12&label=FOLLOWERS" alt="GitHub followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/BigSmoke4?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=6D4A91&labelColor=0D0B12&label=STARS" alt="GitHub stars" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/BigSmoke4?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-ENTER_THE_ARCHIVE-6D4A91?style=for-the-badge&logo=github&logoColor=F5EDFF&labelColor=0D0B12" alt="Browse repositories" />
-  </a>
-  <a href="https://github.com/BigSmoke4">
-    <img src="https://img.shields.io/badge/ACHIEVEMENTS-VIEW_PROFILE-9D72D9?style=for-the-badge&logo=github&logoColor=F5EDFF&labelColor=0D0B12" alt="View GitHub profile and achievements" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/BigSmoke4?tab=repositories"><strong>Browse the repositories ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/BigSmoke4?tab=stars"><strong>Inspect the stars ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://ahanafomiportfolio.vercel.app/"><strong>Enter the portfolio ↗</strong></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/BigSmoke4">
-    <img src="https://img.shields.io/badge/PROFILE-BigSmoke4-6D4A91?style=for-the-badge&logo=github&logoColor=F5EDFF&labelColor=0D0B12" alt="Visit GitHub profile" />
-  </a>
-</p>
-
 <h2 align="center"><em>𝕍𝕖𝕟𝕚. 𝕍𝕚𝕕𝕚. 𝕍𝕚𝕔𝕚.</em></h2>
 
-<p align="center">
-  <img src="./scene-9.gif" width="100%" alt="The final haunting — closing scene" />
-</p>
