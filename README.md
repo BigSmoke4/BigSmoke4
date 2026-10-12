@@ -11,7 +11,7 @@
 <h1 align="center">☾ AHANAF MOKAMMEL OMI ☽</h1>
 
 <p align="center">
-  <strong>SOFTWARE DEVELOPER</strong><br>
+  <strong>FULL STACK DEVELOPER</strong><br>
   <sub>C# · ASP.NET Core · .NET · Python · JavaScript · SQL Server</sub>
 </p>
 
