@@ -1,3 +1,4 @@
+
 <!--
   AHANAF MOKAMMEL OMI • HAUNTED GITHUB ARCHIVE
   Profile repository: BigSmoke4/BigSmoke4
@@ -105,8 +106,30 @@
   <img src="https://streak-stats.demolab.com?user=BigSmoke4&hide_border=true&background=0D0B12&ring=9D72D9&fire=E6B7FF&currStreakLabel=C9A7FF&sideLabels=BBAFCB&currStreakNum=F5EDFF&sideNums=F5EDFF&dates=8B809A" width="75%" alt="GitHub contribution streak" />
 </p>
 
+<!-- FEATURE 1: GENERATED DEVELOPER METRICS -->
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BigSmoke4&bg_color=0D0B12&color=DDD3E8&line=9D72D9&point=E6B7FF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <img src="./github-metrics.svg" width="100%" alt="Automatically generated GitHub developer metrics" />
+</p>
+
+<!-- FEATURE 2: CONTRIBUTION SNAKE -->
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/BigSmoke4/BigSmoke4/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/BigSmoke4/BigSmoke4/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/BigSmoke4/BigSmoke4/output/github-contribution-grid-snake.svg"
+      width="100%"
+      alt="GitHub contribution snake animation"
+    />
+  </picture>
 </p>
 
 <p align="center">
