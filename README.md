@@ -8,11 +8,10 @@
   <img src="./scene-1.gif" width="100%" alt="Haunting opening scene" />
 </p>
 
-<h1 align="center">☾ AHANAF MOKAMMEL OMI ☽</h1>
+<h1 align="center">AHANAF MOKAMMEL OMI</h1>
 
 <p align="center">
   <strong>FULL STACK DEVELOPER</strong><br>
-  <sub>C# · ASP.NET Core · .NET · Python · JavaScript · SQL Server</sub>
 </p>
 
 <p align="center">
@@ -33,12 +32,6 @@
 </p>
 
 <p align="center">✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
-
-<h2 align="center">𖤐 &nbsp; THE HAUNTED ARCHIVE &nbsp; 𖤐</h2>
-
-<p align="center">
-  <em>Nine scenes. Nine fragments. One digital haunt.</em>
-</p>
 
 <table>
   <tr>
@@ -104,14 +97,6 @@
 </table>
 
 <p align="center">
-  <sub>✧ Nine moving fragments. One digital haunt. ✧</sub>
-</p>
-
-<p align="center">✦ ──────────────── ⛧ ──────────────── ✦</p>
-
-<h2 align="center">☠ &nbsp; GITHUB TELEMETRY &nbsp; ☠</h2>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BigSmoke4&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B12&title_color=C9A7FF&icon_color=9D72D9&text_color=DDD3E8&ring_color=9D72D9" width="49%" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigSmoke4&layout=compact&langs_count=8&hide_border=true&bg_color=0D0B12&title_color=C9A7FF&text_color=DDD3E8" width="49%" alt="Most used programming languages" />
 </p>
@@ -142,14 +127,6 @@
 </p>
 
 <p align="center">
-  <sub>Statistics are provided by external services and may not include all private, organization, or otherwise unavailable activity.</sub>
-</p>
-
-<p align="center">✦ ──────────────── ⛧ ──────────────── ✦</p>
-
-<h2 align="center">✧ &nbsp; THE WORK BEYOND THE VEIL &nbsp; ✧</h2>
-
-<p align="center">
   <a href="https://github.com/BigSmoke4?tab=repositories"><strong>Browse the repositories ↗</strong></a>
   &nbsp; · &nbsp;
   <a href="https://github.com/BigSmoke4?tab=stars"><strong>Inspect the stars ↗</strong></a>
@@ -163,11 +140,7 @@
   </a>
 </p>
 
-<p align="center">· · · ✧ · · · ☾ · · · ✧ · · ·</p>
-
 <h2 align="center"><em>𝕍𝕖𝕟𝕚. 𝕍𝕚𝕕𝕚. 𝕍𝕚𝕔𝕚.</em></h2>
-
-<p align="center"><em>I came. I saw. I conquered.</em></p>
 
 <p align="center">
   <img src="./scene-9.gif" width="100%" alt="The final haunting — closing scene" />
