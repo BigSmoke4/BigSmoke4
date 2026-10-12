@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=github,cs,dotnet,visualstudio,python,java,js,html,css,mysql,git&perline=11" alt="Technology stack" />
 </p>
 
-<p align="center">✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏</p>
+<p align="center"></p>
 
 <table>
   <tr>
