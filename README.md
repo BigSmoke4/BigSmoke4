@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/GitHub-BigSmoke4-9D72D9?style=for-the-badge&logo=github&logoColor=F5EDFF&labelColor=0D0B12" alt="GitHub profile" />
   </a>
   <a href="https://ahanafomiportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ENTER_THE_UNKNOWN-6D4A91?style=for-the-badge&logo=vercel&logoColor=F5EDFF&labelColor=0D0B12" alt="Portfolio website" />
+    <img src="https://ahanaf-portfolio-black.vercel.app/-ENTER_THE_UNKNOWN-6D4A91?style=for-the-badge&logo=vercel&logoColor=F5EDFF&labelColor=0D0B12" alt="Portfolio website" />
   </a>
 </p>
 
