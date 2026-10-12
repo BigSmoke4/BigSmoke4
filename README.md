@@ -16,8 +16,7 @@
 </p>
 
 <p align="center">
-  <em>"I'm not a Zenin anymore. I took my wife's name.<br>
-  It's Fushiguro now. But sure, count me in on all the fun."</em>
+  <em>𓅰 𓅬 𓅭 𓅮 𓅯</em>
 </p>
 
 <p align="center">
