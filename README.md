@@ -144,8 +144,8 @@
   <a href="https://github.com/BigSmoke4?tab=repositories">
     <img src="https://img.shields.io/badge/REPOSITORIES-ENTER_THE_ARCHIVE-6D4A91?style=for-the-badge&logo=github&logoColor=F5EDFF&labelColor=0D0B12" alt="Browse repositories" />
   </a>
-  <a href="https://github.com/BigSmoke4?tab=achievements">
-    <img src="https://img.shields.io/badge/ACHIEVEMENTS-EXPLORE-9D72D9?style=for-the-badge&logo=github&logoColor=F5EDFF&labelColor=0D0B12" alt="Explore GitHub achievements" />
+  <a href="https://github.com/BigSmoke4">
+    <img src="https://img.shields.io/badge/ACHIEVEMENTS-VIEW_PROFILE-9D72D9?style=for-the-badge&logo=github&logoColor=F5EDFF&labelColor=0D0B12" alt="View GitHub profile and achievements" />
   </a>
 </p>
 
