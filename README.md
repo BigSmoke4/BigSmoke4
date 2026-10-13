@@ -77,22 +77,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BigSmoke4&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B12&title_color=C9A7FF&icon_color=9D72D9&text_color=DDD3E8&ring_color=9D72D9" width="49%" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigSmoke4&layout=compact&langs_count=8&hide_border=true&bg_color=0D0B12&title_color=C9A7FF&text_color=DDD3E8" width="49%" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BigSmoke4&hide_border=true&background=0D0B12&ring=9D72D9&fire=E6B7FF&currStreakLabel=C9A7FF&sideLabels=BBAFCB&currStreakNum=F5EDFF&sideNums=F5EDFF&dates=8B809A" width="75%" alt="GitHub contribution streak" />
-</p>
-
-<!-- FEATURE 1: GENERATED DEVELOPER METRICS -->
-
-<p align="center">
-  <img src="./github-metrics.svg" width="100%" alt="Automatically generated GitHub developer metrics" />
-</p>
-
 <!-- FEATURE 2: CONTRIBUTION SNAKE -->
 
 <p align="center">
