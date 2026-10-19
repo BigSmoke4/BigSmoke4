@@ -1,5 +1,11 @@
+<div align="center">
+  <img align="left" src="https://raw.githubusercontent.com/BigSmoke4/BigSmoke4/main/dance.gif" width="100" alt="Dancing animation left" />
+  <img align="right" src="https://raw.githubusercontent.com/BigSmoke4/BigSmoke4/main/dance.gif" width="100" alt="Dancing animation right" />
 
-<h1 align="center">𓅰 𓅬 𓅭 𓅮 𓅯</h1>
+  <p align="center">
+    <span style="font-size: 36px;">𓅰 𓅬 𓅭 𓅮 𓅯</span>
+  </p>
+</div>
 
 <p align="center">
   <a href="https://github.com/BigSmoke4">
@@ -14,27 +20,22 @@
   <img src="https://skillicons.dev/icons?i=github,cs,dotnet,visualstudio,python,java,js,html,css,mysql,git&perline=11" alt="Technology stack" />
 </p>
 
-<p align="center"></p>
-
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="./scene-1.gif">
         <img src="./scene-1.gif" width="100%" alt="Scene 1 — The Veil" />
       </a>
-      <br><sub></sub>
     </td>
     <td align="center" width="33%">
       <a href="./scene-2.gif">
         <img src="./scene-2.gif" width="100%" alt="Scene 2 — The Shadow" />
       </a>
-      <br><sub></sub>
     </td>
     <td align="center" width="33%">
       <a href="./scene-3.gif">
         <img src="./scene-3.gif" width="100%" alt="Scene 3 — The Omen" />
       </a>
-      <br><sub></sub>
     </td>
   </tr>
   <tr>
@@ -42,19 +43,16 @@
       <a href="./scene-4.gif">
         <img src="./scene-4.gif" width="100%" alt="Scene 4 — The Abyss" />
       </a>
-      <br><sub></sub>
     </td>
     <td align="center" width="33%">
       <a href="./scene-5.gif">
         <img src="./scene-5.gif" width="100%" alt="Scene 5 — The Ritual" />
       </a>
-      <br><sub></sub>
     </td>
     <td align="center" width="33%">
       <a href="./scene-6.gif">
         <img src="./scene-6.gif" width="100%" alt="Scene 6 — The Apparition" />
       </a>
-      <br><sub></sub>
     </td>
   </tr>
   <tr>
@@ -62,24 +60,19 @@
       <a href="./scene-7.gif">
         <img src="./scene-7.gif" width="100%" alt="Scene 7 — The Haunting" />
       </a>
-      <br><sub></sub>
     </td>
     <td align="center" width="33%">
       <a href="./scene-8.gif">
         <img src="./scene-8.gif" width="100%" alt="Scene 8 — The Aftermath" />
       </a>
-      <br><sub></sub>
     </td>
     <td align="center" width="33%">
       <a href="./scene-9.gif">
         <img src="./scene-9.gif" width="100%" alt="Scene 9 — The Return" />
       </a>
-      <br><sub></sub>
     </td>
   </tr>
 </table>
-
-<!-- FEATURE 2: CONTRIBUTION SNAKE -->
 
 <p align="center">
   <picture>
@@ -99,4 +92,4 @@
   </picture>
 </p>
 
-<h2 align="center"><em>𝕍𝕖𝕟𝕚. 𝕍𝕚𝕕𝕚. 𝕍𝕚𝕔𝕚.</em></h2>
+<p align="center"><em>𝕍𝕖𝕟𝕚. 𝕍𝕚𝕕𝕚. 𝕍𝕚𝕔𝕚.</em></p>
