@@ -1,3 +1,4 @@
+
 <div align="center">
   <img align="left" src="https://raw.githubusercontent.com/BigSmoke4/BigSmoke4/main/dance.gif" width="100" alt="Dancing animation left" />
   <img align="right" src="https://raw.githubusercontent.com/BigSmoke4/BigSmoke4/main/dance.gif" width="100" alt="Dancing animation right" />
@@ -20,7 +21,9 @@
   <img src="https://skillicons.dev/icons?i=github,cs,dotnet,visualstudio,python,java,js,html,css,mysql,git&perline=11" alt="Technology stack" />
 </p>
 
-<table>
+<!-- ANIMATED SCENE GALLERY -->
+
+<table width="100%">
   <tr>
     <td align="center" width="33%">
       <a href="./scene-1.gif">
@@ -74,6 +77,8 @@
   </tr>
 </table>
 
+<!-- CONTRIBUTION SNAKE -->
+
 <p align="center">
   <picture>
     <source
@@ -85,11 +90,160 @@
       srcset="https://raw.githubusercontent.com/BigSmoke4/BigSmoke4/output/github-contribution-grid-snake.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/BigSmoke4/BigSmoke4/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/BigSmoke4/BigSmoke4/output/github-contribution-grid-snake-dark.svg"
       width="100%"
       alt="GitHub contribution snake animation"
     />
   </picture>
 </p>
 
-<p align="center"><em>𝕍𝕖𝕟𝕚. 𝕍𝕚𝕕𝕚. 𝕍𝕚𝕔𝕚.</em></p>
+<!-- WIDE TERMINAL INTRODUCTION -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9D72D9"
+    width="100%"
+    alt=""
+  />
+</p>
+
+<table width="100%" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td
+      bgcolor="#17121F"
+      align="left"
+      style="padding: 10px 16px; border: 1px solid #9D72D9;"
+    >
+      <img src="https://img.shields.io/badge/●-FF5F57?style=flat-square" alt="" />
+      <img src="https://img.shields.io/badge/●-FEBC2E?style=flat-square" alt="" />
+      <img src="https://img.shields.io/badge/●-28C840?style=flat-square" alt="" />
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td
+      bgcolor="#0D0B12"
+      align="left"
+      style="padding: 16px; border: 1px solid #9D72D9; border-top: none;"
+    >
+      <pre style="margin: 0; padding: 0; white-space: pre; overflow-x: auto;"><code>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠊⠁⠈⢘⣒⣤⠠⠰⣤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠐⠀⢀⠀⠀⢐⡩⡽⣿⣟⡄⠉⣻⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢌⣴⡴⠊⣁⢔⣈⣰⡜⢉⣿⣿⡻⣤⣹⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣲⡿⢋⣤⣞⣵⣿⡟⣡⣔⣯⣿⣧⣯⣷⣿⣿⣿⣿⣿⣦⠐⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣮⣞⣵⢿⣿⣿⣿⣷⣿⣿⣿⡿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠐⢯⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢡⠉⠜⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡸⣾⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠂⠀⢈⣿⣷⣿⠀⣿⢻⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣿⣟⣻⣿⣿⣿⣿⣿⣿⣏⣀⠀⠀⠀⠸⣿⢿⡶⢀⡟⠈⣼⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⢃⣿⣭⣿⣿⣿⣿⣿⣿⡏⢍⣙⠛⠷⠦⡄⢻⣼⠋⣼⣁⣀⣹⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡎⢸⣿⣿⣿⣿⣿⣽⣿⠏⠻⠿⢿⣟⢦⢀⠀⠀⠉⠀⣉⣉⠉⢻⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⣸⣿⣿⣿⣿⣿⣿⡟⡈⠀⠀⠀⠀⢀⢮⠀⠀⠀⠚⡛⠃⠿⣾⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⢳⣿⣿⣿⣿⣷⣿⣿⠱⠀⠁⠀⠀⠀⣨⠆⠃⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠃⢞⣿⣿⣿⣿⣿⣿⣟⠠⠁⠀⠀⠀⠘⠣⣼⠀⢀⠀⠀⠀⠀⠀⣼⣿⣿⣿⡻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⣼⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠈⢷⣤⡤⢤⣠⣀⣀⠨⠀⠀⣰⣿⣿⣿⠏⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⠀⢼⡟⣽⣿⣿⣿⣿⣿⣿⣿⣆⢀⠀⠈⠱⠡⠔⠨⠎⠀⠀⣀⣼⣿⣿⣿⣻⠜⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⢠⣿⢱⣿⣿⣿⣿⣿⣿⣿⣿⡜⠛⣧⡀⠀⠀⠀⠀⢀⢠⣾⣿⣿⣿⣿⣿⣯⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢼⣥⡿⣼⣿⣿⣿⣿⣿⣿⡇⠀⠀⠉⠒⠀⠐⠀⠀⢸⢿⣿⣿⣿⣿⣿⡤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠸⣼⠇⢸⣿⣿⣿⣿⣿⣿⢾⣯⡀⠀⠀⠀⠀⠀⠀⠀⠈⢸⣿⣟⣻⢟⣫⠥⠧⠤⠤⡀⠁⠐⠄⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡒⡀⠈⠻⡗⢹⣿⣿⣿⣿⣿⣿⣿⡇⣷⠀⠀⠀⠀⠀⣀⣀⣄⠾⠿⣷⠚⠉⠀⠘⡄⠣⠈⠔⠂⠀⠄⠀⠱⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠈⠀⠀⢠⣤⡁⠉⢿⠿⣿⣿⣿⣿⣿⡟⠉⠂⠀⡐⠢⠁⠀⠀⠀⠀⠀⢿⡆⠀⠀⠐⠀⠁⠀⠀⠀⠀⠀⠀⠀⠘⠆⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠔⢁⡠⠤⠄⠂⠉⢫⡏⢷⣶⣷⣿⣿⣿⣿⣿⣟⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢫⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢘⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢊⡖⠉⠀⠀⠀⠀⠀⢈⢲⠾⢿⣿⣿⣿⣿⣿⢶⡚⢁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡆⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⣿⠠⠁⠀⠀⠀⠀⡀⠆⣤⠚⡉⢿⡿⢿⠿⠟⡉⠔⠠⠈⠀⠀⠀⠀⠀⢀⠠⠈⠄⡀⢀⠀⢿⣇⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣏⠆⡀⠀⠀⢠⢰⡡⢂⠁⠠⢉⣿⠇⠆⡘⢠⠀⢂⠀⠀⠀⠀⠀⢀⡐⢢⠁⢎⡐⠄⠂⠀⠸⣿⣆⠀⠀⠀⠀⠈⠆⠀⠀⠀⠀⠀⠀⡆⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢰⣏⠒⠠⢄⠣⣞⡟⡔⣂⠒⣀⢾⣿⢈⠱⣀⠃⠜⡀⠢⢀⠀⠀⢀⠲⣘⠢⡉⠤⠐⡈⠄⠁⠀⢸⣿⣄⠀⠀⠀⠀⠰⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣬⢧⠉⡒⣌⠳⣽⣟⣺⡴⠖⢫⠿⠇⡈⠐⠠⢈⠂⡐⠁⠂⠐⣀⢸⡳⢌⡁⠆⠁⢂⠀⠀⠀⠀⠈⣿⡿⣷⣄⠀⠀⠣⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢸⣃⠆⡱⢎⡽⣺⣿⠋⢀⠠⢻⣠⠀⠈⠡⠄⠀⠄⠀⠀⠈⠀⢈⣿⢆⢃⡐⠈⠀⠀⠀⠀⠀⠀⠀⣿⣏⣿⡝⣷⡀⠀⠁⠀⠀⠀⠀⠀⠇⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢰⡇⢎⠵⣋⢶⡹⠁⠠⡀⢠⣻⣖⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠎⡠⢀⠀⠀⠀⠀⠀⠀⠀⢠⣿⢺⡵⣛⠼⣋⢦⠀⠐⡀⠀⠀⠀⠄⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠸⡝⡬⢳⡍⡞⠁⣤⣇⣶⣷⣿⣿⡖⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠆⠡⠀⠀⠀⠀⠀⠀⠀⠀⢸⡧⣗⢮⡱⢫⡜⢦⢣⠀⠄⠀⠀⢀⠃⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣟⡼⡱⢎⢇⣾⣿⣿⣿⣟⣧⣿⣷⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⢎⠡⠀⠀⠀⠀⠀⠀⠀⢀⣿⢫⡜⢎⡱⢣⠜⣢⢃⢆⠀⠀⠀⢰⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢹⢶⡙⣾⣮⣿⣿⣿⣻⡾⣽⣛⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⢂⠀⠀⠀⠀⠀⠀⢀⣾⢣⠣⡜⣌⠲⢡⠚⡄⢎⢸⠀⠀⠀⡜⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠨⡷⡹⣌⣿⣿⣿⣿⣷⣻⢧⡛⡼⢿⣧⡀⠀⠀⠀⠀⠀⠀⠀⢸⣇⠂⠀⠀⠀⠀⠀⢀⣼⢏⡲⢱⠘⡄⠣⢸⠇⡈⠔⡸⠀⠀⢀⠃⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⣙⢦⣹⣿⣿⣿⣾⡽⢮⡕⡣⢍⣿⣧⡀⠀⠀⠀⠀⠀⠀⡌⠹⣧⡀⠀⠀⠀⢠⡾⣋⠎⡴⢁⠊⠄⡁⡾⠀⠐⢠⠁⠀⠀⣨⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣭⠖⡌⢿⣿⣿⣿⡽⣧⡛⡴⢃⠆⡋⡿⣦⡀⠀⠀⠀⡐⠀⠀⠀⠓⣄⣠⣼⣿⡳⣍⠚⠤⡁⠌⣀⠞⠀⢀⠜⠁⠀⠀⢀⠇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⢌⠳⣈⠻⣟⣿⣿⣳⡽⣱⠍⡎⡔⡰⢨⢽⣷⣤⡼⠶⠖⠻⠛⠛⠋⠋⠺⣙⠻⠮⣏⣶⣼⣾⠭⠴⠒⠁⠀⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣎⡓⠄⡂⠌⢻⣽⣟⣿⣷⡿⣴⣣⣷⠿⢛⠩⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⢸⡠⠀⠀⠀⡘⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⡉⢆⠡⢊⠦⣽⣾⣻⣟⡿⡻⡕⡒⢌⡁⠂⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡘⠀⠀⠀⢠⠃⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡵⢂⠑⢪⣽⣳⣿⣵⢾⣱⠓⣬⡱⢆⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠁⠀⠀⢀⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⠦⢌⢣⡟⣿⣿⣿⣯⣇⠋⢶⡹⢀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⠀⠀⢀⠎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣆⠥⡚⡽⢯⡿⣷⣏⠞⡈⢗⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⢀⠎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢧⡱⣩⠟⣽⣻⣞⣯⠀⠍⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠪⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠐⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡛⣜⣳⣟⡦⣃⠐⡀⠆⡌⠀⢤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠁⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣬⢋⡟⢶⢁⢂⠘⡴⣈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠌⡀⠀⡁⠀⢀⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⢼⡻⣌⠢⠀⠎⡵⢂⠡⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢢⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠂⠄⠀⡀⠄⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡈⣷⣫⢕⠢⠄⡁⠎⡵⡉⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠌⠠⠐⠀⠀⠌⠀⠀⠀⠀⠐⠀⠀⠁⠀⠀⠀⠠⠁⣾⠵⡊⢅⠂⠄⠓⡬⢑⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠼⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢂⠁⠠⢈⠀⠐⠈⢀⠠⠀⠀⠀⠀⡀⠀⠀⠀⠀⠃⣼⣏⠳⠉⡄⠌⡀⠣⡘⠄⢂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠳⡀⠀⠀⠀⠀
+⠂⠌⢀⠂⡀⢂⠠⠀⠀⡀⠐⠀⠀⠀⠀⢼⡷⢎⠆⠁⠀⢂⠁⢂⠱⠈⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠿⠁⠀⢣⠀⠀⠀⠀
+⠡⢈⠀⢂⠐⢀⠀⠁⠄⠀⠀⠄⠀⠈⠀⠀⢀⠹⣿⡆⠌⠀⠀⠈⢂⠄⠂⠡⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⢤⣎⠗⠋⠀⠀⠀⠀⠇⠀⠀⠀
+⣁⠂⡐⢀⠂⠄⢈⠀⠄⠈⡀⠄⠐⠀⠀⠀⡌⣠⠻⢿⣷⣦⣀⠀⠂⠠⠀⡁⠂⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠤⡺⠭⠚⠁⠀⠀⠀⠀⠀⠀⠀⠡⡀⠀⠀
+⠄⡂⠐⡀⢂⠈⠠⢀⠂⠐⡀⠐⠈⡀⠀⠀⣳⣯⣛⠤⡈⠙⠛⠻⠷⣶⣶⣤⣁⣂⡀⠀⠀⠀⠀⠀⠀⣀⣀⣠⣴⠲⣋⡔⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢡⠀⠀
+⢂⠅⢂⠐⠠⢈⠐⡀⠈⠄⡐⠈⠠⠀⠀⢀⣼⣳⢭⠲⣁⠂⠄⠀⠀⠀⠀⠙⢿⣿⣻⢿⡳⣖⠶⣶⣛⣿⣙⠳⣩⢡⢢⣱⠎⢀⡠⠆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠀⠀
+⡌⢂⠄⠌⡐⡀⠂⠄⠡⠀⠄⠡⠀⠁⠀⢀⢹⣧⢫⠱⣀⠊⢀⠀⠀⠀⠀⠤⡈⠹⢯⣿⣱⢏⡾⣰⡙⢦⢣⠓⡔⢢⣳⢃⡾⢋⠔⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡄⠀
+⠆⡡⢈⠐⠠⢀⠡⠈⠄⠡⠈⠄⡁⠈⠀⠸⢸⣎⠧⢣⠐⡈⠀⠀⠀⠀⠀⠀⠈⠐⢌⡹⣟⣮⡳⣥⢫⢇⡏⠞⣌⣿⢷⠫⠜⡠⠈⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀
+⠜⣀⠂⠌⡐⢀⠂⠡⠈⠄⡁⢂⠄⠡⠀⡇⡿⡼⣙⠦⡑⠄⡁⠀⠀⠀⠀⠀⠀⠀⠀⠈⠢⣟⣿⣖⢯⣾⣭⣿⣾⢛⡌⢣⠘⢀⠁⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀
+⡱⢀⠌⡐⢀⠂⠌⡠⢁⠂⠄⡁⢂⠐⡀⡇⣿⡱⣍⠲⣁⠂⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⡿⠿⢿⡟⡬⢃⠜⠠⠈⠄⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀
+⡔⠡⠂⢌⠠⢈⠐⡀⠂⠌⡐⠠⢁⠂⠄⢻⣯⢳⡍⡖⢄⠃⡈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣧⢠⡿⣘⠱⡈⠌⠄⠡⢈⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠇⠀
+⢌⡑⠈⡄⠂⢄⠂⠄⡁⠆⠠⡁⠢⢈⠐⢸⣯⢳⡝⡜⡠⠒⡀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣸⢧⢡⠃⡜⠠⠈⠔⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⠀⠀
+⠆⡌⢡⠠⠉⡄⠨⠄⡁⢂⠡⠀⡅⠂⠌⣈⣿⢳⡞⡥⡑⢂⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⢎⠢⡑⡀⠂⡍⠰⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡎⠀⠀
+⢣⠘⡀⢆⠡⢂⢁⠂⠔⠠⡁⢡⠀⢃⠐⡀⣿⡳⡞⣥⠃⡌⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⢎⠱⡐⣀⠣⢌⢁⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠁⠀⠀
+⢣⡑⢌⠂⡅⢢⠈⠔⡈⠔⡠⠁⢌⠐⡐⢀⢻⣵⠻⡴⡩⢄⠡⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣌⠣⡐⢄⡊⠔⢂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡆⠀⠀⠀
+⢣⡘⢄⠣⢌⠰⣈⢂⠱⢈⠔⠡⣈⠐⡈⢄⠈⣯⣟⣱⡑⣂⠂⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣎⠱⣈⠦⡑⠊⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡘⠀⠀⠀⠀
+⢣⡘⢄⢊⡄⢣⠐⡌⢄⠣⢈⠥⢀⠒⠠⡈⠄⢻⣜⢧⠳⡄⢃⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣇⠳⣄⢣⠱⡉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠂⠀⠀⠀⠀
+⠣⡜⡐⢢⠘⡄⢣⠘⡄⢊⠔⡈⠆⡘⢠⠐⡡⠈⣿⣎⠷⡘⠄⢂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣏⠶⣌⢣⠑⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡂⠀⠀⠀⠀⠀
+⣓⢤⠃⡥⠚⣄⠃⢎⠰⡁⢎⠰⢡⠘⣀⠒⠤⠑⣸⢮⢏⡵⢈⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣏⡞⡌⢆⠡⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡜⠀⠀⠀⠀⠀⠄</code></pre>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=800&color=C4A1FF&center=true&vCenter=true&width=900&lines=%24+dotnet+build+%E2%80%94+building+ideas...;%24+git+status+%E2%80%94+always+evolving;%24+echo+%22Think.+Build.+Refine.%22;%24+systemctl+status+ambition+%E2%80%94+active"
+    width="100%"
+    alt="Animated terminal commands"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9D72D9"
+    width="100%"
+    alt=""
+  />
+</p>
+
+<!-- GITHUB STATISTICS -->
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BigSmoke4&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=C4A1FF&text_color=E8DFF5&icon_color=9D72D9&ring_color=9D72D9&include_all_commits=true"
+    height="175"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigSmoke4&layout=compact&hide_border=true&bg_color=0D0B12&title_color=C4A1FF&text_color=E8DFF5"
+    height="175"
+    alt="Most-used programming languages"
+  />
+</p>
+
+<!-- GITHUB STREAK -->
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=BigSmoke4&hide_border=true&background=0D0B12&ring=9D72D9&fire=C4A1FF&currStreakLabel=C4A1FF&sideLabels=E8DFF5&currStreakNum=F5EDFF&sideNums=F5EDFF&dates=9B91A8"
+    width="70%"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9D72D9"
+    width="65%"
+    alt=""
+  />
+</p>
+
+<p align="center">
+  <em>𝕍𝕖𝕟𝕚. 𝕍𝕚𝕕𝕚. 𝕍𝕚𝕔𝕚.</em>
+</p>
