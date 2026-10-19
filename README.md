@@ -1,11 +1,12 @@
+
 <h1 align="center">𓅰 𓅬 𓅭 𓅮 𓅯</h1>
 
 <p align="center">
   <a href="https://github.com/BigSmoke4">
     <img src="https://img.shields.io/badge/GitHub-BigSmoke4-9D72D9?style=for-the-badge&logo=github&logoColor=F5EDFF&labelColor=0D0B12" alt="GitHub profile" />
   </a>
-  <a href="https://ahanafomiportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/ENTER_THE_UNKNOWN-6D4A91?style=for-the-badge&logo=vercel&logoColor=F5EDFF&labelColor=0D0B12" alt="Portfolio Website" />
+  <a href="https://ahanaf-portfolio-black.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-6D4A91?style=for-the-badge&logo=vercel&logoColor=F5EDFF&labelColor=0D0B12" alt="Portfolio Website" />
   </a>
 </p>
 
@@ -77,6 +78,7 @@
     </td>
   </tr>
 </table>
+
 <!-- FEATURE 2: CONTRIBUTION SNAKE -->
 
 <p align="center">
@@ -98,4 +100,3 @@
 </p>
 
 <h2 align="center"><em>𝕍𝕖𝕟𝕚. 𝕍𝕚𝕕𝕚. 𝕍𝕚𝕔𝕚.</em></h2>
-
